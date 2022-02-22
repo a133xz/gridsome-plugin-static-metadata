@@ -1,0 +1,22 @@
+{
+  "name": "gridsome-plugin-static-metadata",
+  "version": "0.0.1",
+  "description": "Gridsome plugin to add global static metadata.",
+  "main": "gridsome.client.js",
+  "files": [
+    "gridsome.client.js"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "gridsome",
+    "gridsome-plugin",
+    "metadata",
+    "static metadata",
+    "vue-meta"
+  ],
+  "author": "Antonio R (https://antonio-r.vercel.app/)",
+  "license": "MIT",
+  "repository": "a133xz/gridsome-plugin-static-metadata"
+}
